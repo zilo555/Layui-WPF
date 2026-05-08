@@ -19,6 +19,9 @@
 [LayUI.Avalonia](https://github.com/Coolkeke/LayUI-Avalonia/tree/LayUI-Avalonia-11.0.0)
 ## 教学视频
 [Bilibili](https://space.bilibili.com/48808444)  
+## 强推API Key超值兑换网站
+[Codex兑换入口](https://www.gmapikey.com)   
+
 ## 想为我买防脱发水？
 ![1704476122969](https://github.com/Layui-WPF-Team/Layui-WPF/assets/37786276/3e169d64-1c3d-42d3-81b0-89895d664b15)![image](https://github.com/Layui-WPF-Team/Layui-WPF/assets/37786276/e369f03c-7c60-449f-b7d2-491e256ee92a)
 
